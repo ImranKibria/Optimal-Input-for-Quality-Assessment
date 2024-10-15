@@ -8,3 +8,4 @@ Analyzing performance of a convolution-based quality assessment model when it ta
 4) log-mel-spectrogram.
 
 This project is an extension to the work of Gamper, Hannes, et al. proposed in "Intrusive and non-intrusive perceptual speech quality assessment using a convolutional neural network." published at IEEE WASPAA'19 workshop.
+![scatter_plot](https://github.com/user-attachments/assets/7a255045-68cf-457f-897b-f4a938a0f8f4)
